@@ -1,0 +1,32 @@
+create_table 3 starttime wc_files random.txt gettime
+create_table 5 starttime wc_files randomultra.txt gettime
+create_table 5 starttime wc_files ../8kfile.txt gettime
+
+create_table 1 starttime wc_files random.txt random2.txt gettime
+create_table 1 starttime wc_files random.txt random2.txt random3.txt random4.txt gettime
+create_table 1 starttime wc_files random5.txt randomlong.txt randommega.txt randomultra.txt gettime
+create_table 1 starttime wc_files random.txt random2.txt random3.txt random4.txt random5.txt randomlong.txt randommega.txt randomultra.txt gettime
+
+create_table 3 wc_files random.txt starttime to_mem gettime
+create_table 5 wc_files randomultra.txt starttime to_mem gettime
+create_table 5 wc_files ../8kfile.txt starttime to_mem gettime
+
+create_table 1 wc_files random.txt random2.txt starttime to_mem gettime
+create_table 1 wc_files random.txt random2.txt random3.txt random4.txt starttime to_mem gettime
+create_table 1 wc_files random5.txt randomlong.txt randommega.txt randomultra.txt starttime to_mem gettime
+create_table 1 wc_files random.txt random2.txt random3.txt random4.txt random5.txt randomlong.txt randommega.txt randomultra.txt starttime to_mem gettime
+
+
+create_table 3 wc_files random.txt to_mem starttime remove_block 0 gettime
+create_table 5 wc_files randomultra.txt to_mem starttime remove_block 0 gettime
+create_table 5 wc_files ../8kfile.txt to_mem starttime remove_block 0 gettime
+
+create_table 1 wc_files random.txt random2.txt to_mem starttime remove_block 0 gettime
+create_table 1 wc_files random.txt random2.txt random3.txt random4.txt to_mem starttime remove_block 0 gettime
+create_table 1 wc_files random5.txt randomlong.txt randommega.txt randomultra.txt to_mem starttime remove_block 0 gettime
+create_table 1 wc_files random.txt random2.txt random3.txt random4.txt random5.txt randomlong.txt randommega.txt randomultra.txt to_mem starttime remove_block 0 gettime
+
+create_table 3 starttime wc_files ../8kfile.txt to_mem wc_files random.txt to_mem remove_block 0 remove_block 0 wc_files random2.txt random3.txt to_mem gettime
+create_table 3 starttime wc_files ../8kfile.txt to_mem wc_files random.txt to_mem remove_block 0 remove_block 0 wc_files random2.txt random3.txt to_mem wc_files ../8kfile.txt ../8kfile.txt ../8kfile.txt to_mem remove_block 0 remove_block 0 gettime
+
+

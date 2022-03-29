@@ -1,0 +1,8 @@
+qwertyuiop
+asd
+asd asd asd
+sysopy sysopy sysopy
+Zaprojektuj i przygotuj zestaw funkcji (bibliotekę) do zarządzania tablicą bloków,
+w których to blokach pamięci zapisywane są rezultaty operacji zliczania lini,
+słów i znaków (poleceniem wc) w plikach przekazywanych jako odpowiedni parametr.
+

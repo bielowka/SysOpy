@@ -1,0 +1,52 @@
+           Real	           User	         System
+       0.000000	       0.000000	       0.000000	
+           Real	           User	         System
+       0.010000	       0.000000	       0.000000	
+           Real	           User	         System
+       0.040000	       0.000000	       0.000000	
+
+           Real	           User	         System
+       0.000000	       0.000000	       0.000000	
+           Real	           User	         System
+       0.000000	       0.000000	       0.000000
+           Real	           User	         System
+       0.010000	       0.000000	       0.000000	
+           Real	           User	         System
+       0.020000	       0.000000	       0.000000	
+
+           Real	           User	         System
+       0.000000	       0.000000	       0.000000	
+           Real	           User	         System
+       0.000000	       0.000000	       0.000000	
+           Real	           User	         System
+       0.000000	       0.000000	       0.000000	
+
+           Real	           User	         System
+       0.000000	       0.000000	       0.000000	
+           Real	           User	         System
+       0.000000	       0.000000	       0.000000	
+           Real	           User	         System
+       0.000000	       0.000000	       0.000000	
+           Real	           User	         System
+       0.000000	       0.000000	       0.000000	
+
+           Real	           User	         System
+       0.000000	       0.000000	       0.000000	
+           Real	           User	         System
+       0.000000	       0.000000	       0.000000	
+           Real	           User	         System
+       0.000000	       0.000000	       0.000000	
+
+           Real	           User	         System
+       0.000000	       0.000000	       0.000000	
+           Real	           User	         System
+       0.000000	       0.000000	       0.000000	
+           Real	           User	         System
+       0.000000	       0.000000	       0.000000	
+           Real	           User	         System
+       0.000000	       0.000000	       0.000000	
+
+           Real	           User	         System
+       0.050000	       0.000000	       0.000000	
+           Real	           User	         System
+       0.130000	       0.000000	       0.000000	
