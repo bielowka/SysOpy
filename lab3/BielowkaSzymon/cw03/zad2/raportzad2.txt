@@ -1,0 +1,70 @@
+DX: 0.0000300000000000  Processes: 1 
+           Real	           User	         System
+       0.000000	       0.000000	       0.000000	
+
+
+DX: 0.0000300000000000  Processes: 16 
+           Real	           User	         System
+       0.000000	       0.000000	       0.000000	
+
+
+DX: 0.0000000300000000  Processes: 1 
+           Real	           User	         System
+       0.810000	       0.000000	       0.000000	
+
+
+DX: 0.0000000300000000  Processes: 6 
+           Real	           User	         System
+       0.140000	       0.000000	       0.000000	
+
+
+DX: 0.0000000300000000  Processes: 12 
+           Real	           User	         System
+       0.080000	       0.000000	       0.000000	
+
+
+DX: 0.0000000300000000  Processes: 16 
+           Real	           User	         System
+       0.100000	       0.000000	       0.000000	
+
+
+DX: 0.0000000300000000  Processes: 64 
+           Real	           User	         System
+       0.080000	       0.000000	       0.000000	
+
+
+DX: 0.0000000300000000  Processes: 96 
+           Real	           User	         System
+       0.090000	       0.000000	       0.000000	
+
+
+DX: 0.0000000010000000  Processes: 1 
+           Real	           User	         System
+      24.330000	       0.000000	       0.000000	
+
+
+DX: 0.0000000010000000  Processes: 6 
+           Real	           User	         System
+       4.250000	       0.000000	       0.000000	
+
+
+DX: 0.0000000010000000  Processes: 12 
+           Real	           User	         System
+       2.330000	       0.000000	       0.000000	
+
+
+DX: 0.0000000010000000  Processes: 16 
+           Real	           User	         System
+       2.460000	       0.000000	       0.000000	
+
+
+DX: 0.0000000010000000  Processes: 64 
+           Real	           User	         System
+       2.360000	       0.000000	       0.000000	
+
+
+DX: 0.0000000010000000  Processes: 96 
+           Real	           User	         System
+       2.370000	       0.000000	       0.000000	
+
+
