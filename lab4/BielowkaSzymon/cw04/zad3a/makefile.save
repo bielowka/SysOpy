@@ -1,0 +1,9 @@
+make:
+	gcc -Wall -c catcher.c
+	gcc catcher.o -o catcher
+	gcc -Wall -c sender.c
+	gcc sender.o -o sender
+
+clean:
+	rm -f *.so *.o *.a
+

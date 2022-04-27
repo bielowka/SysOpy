@@ -1,0 +1,26 @@
+---------------------------------------
+Testing SA_SIGINF:
+Information::  Number: 10; Code: -6;  Int value: 0;  UID: 1000;  PID: 10138;
+Information::  Number: 12; Code: -6;  Int value: 0;  UID: 1000;  PID: 10138;
+---------------------------------------
+
+---------------------------------------
+Testing SA_NOCLDSTOP:
+No flag:
+Child 10138 notified 10131
+
+With flag:
+
+<no notification>
+---------------------------------------
+
+---------------------------------------
+Testing SA_NODEFER:
+Without flag:
+Handling signal 17 in process 10138
+Handling signal 17 in process 10138
+Handling signal 17 in process 10138
+With flag:
+Handling signal 17 in process 10138
+<handled only once and then ignored as default>
+---------------------------------------
