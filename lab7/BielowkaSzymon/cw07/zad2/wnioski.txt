@@ -1,0 +1,7 @@
+Zarówno dla wartości N,M < 5 jak N,M > 10 program działa poprawnie
+Dla małych wartości oraz podobnych wartości M i N wymiana jest płynniejsza
+Dla małej liczby dostawców (< pojemność stołu) a dużej kucharzy, stół zapełnia się często w pełni
+Dla dużych liczb N,M (>pojemność pieca) piec zapełnia się często w pełni
+
+W tym standardzie zauważyłem, że czasem komunikaty są wypisywane na wyjście standardowe w pomieszanej kolejności, jednak po przeanalizowaniu ich, widać że system wciąż działa poprawnie.
+Podejrzewam, patrząc na czasy, że może być to spowodowane faktem, że POSIX jest szybszy.

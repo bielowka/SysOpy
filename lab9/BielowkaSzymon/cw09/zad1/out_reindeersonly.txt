@@ -1,0 +1,38 @@
+Komunikat: Renifer: czeka 1 reniferów na Mikołaja, 0
+Komunikat: Renifer: czeka 2 reniferów na Mikołaja, 3
+Komunikat: Renifer: czeka 3 reniferów na Mikołaja, 8
+Komunikat: Renifer: czeka 4 reniferów na Mikołaja, 2
+Komunikat: Renifer: czeka 5 reniferów na Mikołaja, 1
+Komunikat: Renifer: czeka 6 reniferów na Mikołaja, 7
+Komunikat: Renifer: czeka 7 reniferów na Mikołaja, 4
+Komunikat: Renifer: czeka 8 reniferów na Mikołaja, 5
+Komunikat: Renifer: czeka 9 reniferów na Mikołaja, 6
+Komunikat: Renifer: wybudzam Mikołaja, 6
+Komunikat: Mikołaj: budzę się
+Komunikat: Mikołaj: dostarczam zabawki
+Komunikat: Mikołaj: zasypiam
+Komunikat: Renifer: czeka 1 reniferów na Mikołaja, 2
+Komunikat: Renifer: czeka 2 reniferów na Mikołaja, 3
+Komunikat: Renifer: czeka 3 reniferów na Mikołaja, 8
+Komunikat: Renifer: czeka 4 reniferów na Mikołaja, 6
+Komunikat: Renifer: czeka 5 reniferów na Mikołaja, 0
+Komunikat: Renifer: czeka 6 reniferów na Mikołaja, 1
+Komunikat: Renifer: czeka 7 reniferów na Mikołaja, 5
+Komunikat: Renifer: czeka 8 reniferów na Mikołaja, 4
+Komunikat: Renifer: czeka 9 reniferów na Mikołaja, 7
+Komunikat: Renifer: wybudzam Mikołaja, 7
+Komunikat: Mikołaj: budzę się
+Komunikat: Mikołaj: dostarczam zabawki
+Komunikat: Mikołaj: zasypiam
+Komunikat: Renifer: czeka 1 reniferów na Mikołaja, 1
+Komunikat: Renifer: czeka 2 reniferów na Mikołaja, 4
+Komunikat: Renifer: czeka 3 reniferów na Mikołaja, 7
+Komunikat: Renifer: czeka 4 reniferów na Mikołaja, 5
+Komunikat: Renifer: czeka 5 reniferów na Mikołaja, 2
+Komunikat: Renifer: czeka 6 reniferów na Mikołaja, 6
+Komunikat: Renifer: czeka 7 reniferów na Mikołaja, 8
+Komunikat: Renifer: czeka 8 reniferów na Mikołaja, 3
+Komunikat: Renifer: czeka 9 reniferów na Mikołaja, 0
+Komunikat: Renifer: wybudzam Mikołaja, 0
+Komunikat: Mikołaj: budzę się
+Komunikat: Mikołaj: dostarczam zabawki

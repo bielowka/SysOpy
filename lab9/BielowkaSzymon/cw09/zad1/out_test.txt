@@ -1,0 +1,226 @@
+make
+make[1]: Entering directory '/home/bielowka/all_sysopy/lab9/BielowkaSzymon/cw09/zad1'
+gcc -Wall main.c -o main -lpthread -lm
+make[1]: Leaving directory '/home/bielowka/all_sysopy/lab9/BielowkaSzymon/cw09/zad1'
+./main
+Komunikat: Elf: czeka 1 elfów na Mikołaja, ID: 7
+Komunikat: Elf: czeka 2 elfów na Mikołaja, ID: 9
+Komunikat: Elf: czeka 3 elfów na Mikołaja, ID: 4
+Komunikat: Elf: wybudzam Mikołaja, ID: 4
+Komunikat: Elf: Mikołaj rozwiązuje problem, ID: 4
+Komunikat: Mikołaj: budzę się
+Komunikat: Elf: czeka na powrót elfów, ID: 1
+Komunikat: Elf: czeka na powrót elfów, ID: 3
+Komunikat: Elf: czeka na powrót elfów, ID: 5
+Komunikat: Elf: czeka na powrót elfów, ID: 8
+Komunikat: Mikołaj: rozwiązuje problemy elfów, 7 9 4
+Komunikat: Elf: czeka na powrót elfów, ID: 7
+Komunikat: Elf: czeka na powrót elfów, ID: 0
+Komunikat: Elf: czeka na powrót elfów, ID: 2
+Komunikat: Elf: czeka na powrót elfów, ID: 6
+Komunikat: Elf: czeka na powrót elfów, ID: 9
+Komunikat: Renifer: czeka 1 reniferów na Mikołaja, 2
+Komunikat: Renifer: czeka 2 reniferów na Mikołaja, 3
+Komunikat: Mikołaj: zasypiam
+Komunikat: Elf: czeka 1 elfów na Mikołaja, ID: 2
+Komunikat: Elf: czeka 2 elfów na Mikołaja, ID: 9
+Komunikat: Elf: czeka 3 elfów na Mikołaja, ID: 0
+Komunikat: Elf: wybudzam Mikołaja, ID: 0
+Komunikat: Elf: czeka na powrót elfów, ID: 5
+Komunikat: Elf: czeka na powrót elfów, ID: 1
+Komunikat: Elf: Mikołaj rozwiązuje problem, ID: 0
+Komunikat: Elf: czeka na powrót elfów, ID: 6
+Komunikat: Elf: czeka na powrót elfów, ID: 7
+Komunikat: Elf: czeka na powrót elfów, ID: 8
+Komunikat: Mikołaj: budzę się
+Komunikat: Renifer: czeka 3 reniferów na Mikołaja, 4
+Komunikat: Renifer: czeka 4 reniferów na Mikołaja, 5
+Komunikat: Renifer: czeka 5 reniferów na Mikołaja, 6
+Komunikat: Elf: czeka na powrót elfów, ID: 4
+Komunikat: Renifer: czeka 6 reniferów na Mikołaja, 7
+Komunikat: Mikołaj: rozwiązuje problemy elfów, 2 9 0
+Komunikat: Renifer: czeka 7 reniferów na Mikołaja, 0
+Komunikat: Renifer: czeka 8 reniferów na Mikołaja, 8
+Komunikat: Mikołaj: zasypiam
+Komunikat: Elf: czeka 1 elfów na Mikołaja, ID: 4
+Komunikat: Elf: czeka 2 elfów na Mikołaja, ID: 1
+Komunikat: Elf: czeka 3 elfów na Mikołaja, ID: 5
+Komunikat: Elf: wybudzam Mikołaja, ID: 5
+Komunikat: Elf: czeka na powrót elfów, ID: 8
+Komunikat: Elf: Mikołaj rozwiązuje problem, ID: 5
+Komunikat: Elf: czeka na powrót elfów, ID: 7
+Komunikat: Mikołaj: budzę się
+Komunikat: Renifer: czeka 9 reniferów na Mikołaja, 1
+Komunikat: Renifer: wybudzam Mikołaja, 1
+Komunikat: Elf: czeka na powrót elfów, ID: 9
+Komunikat: Elf: czeka na powrót elfów, ID: 2
+Komunikat: Elf: czeka na powrót elfów, ID: 1
+Komunikat: Mikołaj: rozwiązuje problemy elfów, 4 1 5
+Komunikat: Elf: czeka na powrót elfów, ID: 0
+Komunikat: Elf: czeka na powrót elfów, ID: 4
+Komunikat: Mikołaj: zasypiam
+Komunikat: Mikołaj: budzę się
+Komunikat: Mikołaj: dostarczam zabawki
+Komunikat: Elf: czeka 1 elfów na Mikołaja, ID: 0
+Komunikat: Elf: czeka 2 elfów na Mikołaja, ID: 4
+Komunikat: Elf: czeka 3 elfów na Mikołaja, ID: 7
+Komunikat: Elf: wybudzam Mikołaja, ID: 7
+Komunikat: Elf: Mikołaj rozwiązuje problem, ID: 7
+Komunikat: Elf: czeka na powrót elfów, ID: 9
+Komunikat: Elf: czeka na powrót elfów, ID: 1
+Komunikat: Elf: czeka na powrót elfów, ID: 2
+Komunikat: Elf: czeka na powrót elfów, ID: 3
+Komunikat: Mikołaj: rozwiązuje problemy elfów, 0 4 7
+Komunikat: Elf: czeka 1 elfów na Mikołaja, ID: 3
+Komunikat: Mikołaj: zasypiam
+Komunikat: Elf: czeka 2 elfów na Mikołaja, ID: 9
+Komunikat: Elf: czeka 3 elfów na Mikołaja, ID: 1
+Komunikat: Elf: wybudzam Mikołaja, ID: 1
+Komunikat: Elf: Mikołaj rozwiązuje problem, ID: 1
+Komunikat: Mikołaj: budzę się
+Komunikat: Elf: czeka na powrót elfów, ID: 5
+Komunikat: Elf: czeka na powrót elfów, ID: 6
+Komunikat: Elf: czeka na powrót elfów, ID: 0
+Komunikat: Elf: czeka na powrót elfów, ID: 4
+Komunikat: Elf: czeka na powrót elfów, ID: 7
+Komunikat: Elf: czeka na powrót elfów, ID: 8
+Komunikat: Mikołaj: rozwiązuje problemy elfów, 3 9 1
+Komunikat: Elf: czeka na powrót elfów, ID: 9
+Komunikat: Elf: czeka na powrót elfów, ID: 3
+Komunikat: Renifer: czeka 1 reniferów na Mikołaja, 6
+Komunikat: Renifer: czeka 2 reniferów na Mikołaja, 2
+Komunikat: Renifer: czeka 3 reniferów na Mikołaja, 0
+Komunikat: Elf: czeka na powrót elfów, ID: 1
+Komunikat: Mikołaj: zasypiam
+Komunikat: Elf: czeka 1 elfów na Mikołaja, ID: 3
+Komunikat: Elf: czeka 2 elfów na Mikołaja, ID: 1
+Komunikat: Elf: czeka 3 elfów na Mikołaja, ID: 5
+Komunikat: Elf: wybudzam Mikołaja, ID: 5
+Komunikat: Elf: Mikołaj rozwiązuje problem, ID: 5
+Komunikat: Elf: czeka na powrót elfów, ID: 0
+Komunikat: Elf: czeka na powrót elfów, ID: 4
+Komunikat: Elf: czeka na powrót elfów, ID: 8
+Komunikat: Elf: czeka na powrót elfów, ID: 7
+Komunikat: Mikołaj: budzę się
+Komunikat: Elf: czeka na powrót elfów, ID: 9
+Komunikat: Renifer: czeka 4 reniferów na Mikołaja, 1
+Komunikat: Renifer: czeka 5 reniferów na Mikołaja, 5
+Komunikat: Renifer: czeka 6 reniferów na Mikołaja, 4
+Komunikat: Renifer: czeka 7 reniferów na Mikołaja, 7
+Komunikat: Mikołaj: rozwiązuje problemy elfów, 3 1 5
+Komunikat: Renifer: czeka 8 reniferów na Mikołaja, 3
+Komunikat: Elf: czeka na powrót elfów, ID: 2
+Komunikat: Elf: czeka na powrót elfów, ID: 3
+Komunikat: Elf: czeka na powrót elfów, ID: 5
+Komunikat: Mikołaj: zasypiam
+Komunikat: Elf: czeka 1 elfów na Mikołaja, ID: 5
+Komunikat: Elf: czeka 2 elfów na Mikołaja, ID: 0
+Komunikat: Elf: czeka na powrót elfów, ID: 7
+Komunikat: Elf: czeka 3 elfów na Mikołaja, ID: 8
+Komunikat: Elf: wybudzam Mikołaja, ID: 8
+Komunikat: Elf: Mikołaj rozwiązuje problem, ID: 8
+Komunikat: Elf: czeka na powrót elfów, ID: 4
+Komunikat: Mikołaj: budzę się
+Komunikat: Elf: czeka na powrót elfów, ID: 9
+Komunikat: Elf: czeka na powrót elfów, ID: 2
+Komunikat: Elf: czeka na powrót elfów, ID: 3
+Komunikat: Renifer: czeka 9 reniferów na Mikołaja, 8
+Komunikat: Renifer: wybudzam Mikołaja, 8
+Komunikat: Elf: czeka na powrót elfów, ID: 1
+Komunikat: Mikołaj: rozwiązuje problemy elfów, 5 0 8
+Komunikat: Elf: czeka na powrót elfów, ID: 6
+Komunikat: Mikołaj: zasypiam
+Komunikat: Mikołaj: budzę się
+Komunikat: Mikołaj: dostarczam zabawki
+Komunikat: Elf: czeka 1 elfów na Mikołaja, ID: 2
+Komunikat: Elf: czeka 2 elfów na Mikołaja, ID: 1
+Komunikat: Elf: czeka 3 elfów na Mikołaja, ID: 7
+Komunikat: Elf: wybudzam Mikołaja, ID: 7
+Komunikat: Elf: Mikołaj rozwiązuje problem, ID: 7
+Komunikat: Elf: czeka na powrót elfów, ID: 4
+Komunikat: Elf: czeka na powrót elfów, ID: 9
+Komunikat: Elf: czeka na powrót elfów, ID: 3
+Komunikat: Elf: czeka na powrót elfów, ID: 0
+Komunikat: Elf: czeka na powrót elfów, ID: 5
+Komunikat: Elf: czeka na powrót elfów, ID: 8
+Komunikat: Elf: czeka na powrót elfów, ID: 2
+Komunikat: Mikołaj: rozwiązuje problemy elfów, 2 1 7
+Komunikat: Elf: czeka na powrót elfów, ID: 1
+Komunikat: Elf: czeka na powrót elfów, ID: 6
+Komunikat: Elf: czeka na powrót elfów, ID: 7
+Komunikat: Mikołaj: zasypiam
+Komunikat: Elf: czeka 1 elfów na Mikołaja, ID: 7
+Komunikat: Elf: czeka 2 elfów na Mikołaja, ID: 4
+Komunikat: Elf: czeka 3 elfów na Mikołaja, ID: 9
+Komunikat: Elf: wybudzam Mikołaja, ID: 9
+Komunikat: Elf: Mikołaj rozwiązuje problem, ID: 9
+Komunikat: Elf: czeka na powrót elfów, ID: 0
+Komunikat: Elf: czeka na powrót elfów, ID: 5
+Komunikat: Mikołaj: budzę się
+Komunikat: Elf: czeka na powrót elfów, ID: 8
+Komunikat: Elf: czeka na powrót elfów, ID: 2
+Komunikat: Elf: czeka na powrót elfów, ID: 6
+Komunikat: Elf: czeka na powrót elfów, ID: 1
+Komunikat: Mikołaj: rozwiązuje problemy elfów, 7 4 9
+Komunikat: Renifer: czeka 1 reniferów na Mikołaja, 4
+Komunikat: Renifer: czeka 2 reniferów na Mikołaja, 8
+Komunikat: Mikołaj: zasypiam
+Komunikat: Elf: czeka 1 elfów na Mikołaja, ID: 6
+Komunikat: Elf: czeka 2 elfów na Mikołaja, ID: 1
+Komunikat: Elf: czeka 3 elfów na Mikołaja, ID: 5
+Komunikat: Elf: wybudzam Mikołaja, ID: 5
+Komunikat: Elf: czeka na powrót elfów, ID: 8
+Komunikat: Elf: Mikołaj rozwiązuje problem, ID: 5
+Komunikat: Elf: czeka na powrót elfów, ID: 2
+Komunikat: Mikołaj: budzę się
+Komunikat: Renifer: czeka 3 reniferów na Mikołaja, 0
+Komunikat: Renifer: czeka 4 reniferów na Mikołaja, 7
+Komunikat: Elf: czeka na powrót elfów, ID: 9
+Komunikat: Renifer: czeka 5 reniferów na Mikołaja, 5
+Komunikat: Elf: czeka na powrót elfów, ID: 7
+Komunikat: Elf: czeka na powrót elfów, ID: 4
+Komunikat: Mikołaj: rozwiązuje problemy elfów, 6 1 5
+Komunikat: Elf: czeka na powrót elfów, ID: 3
+Komunikat: Renifer: czeka 6 reniferów na Mikołaja, 2
+Komunikat: Renifer: czeka 7 reniferów na Mikołaja, 6
+Komunikat: Elf: czeka na powrót elfów, ID: 6
+Komunikat: Elf: czeka na powrót elfów, ID: 1
+Komunikat: Mikołaj: zasypiam
+Komunikat: Elf: czeka 1 elfów na Mikołaja, ID: 1
+Komunikat: Elf: czeka 2 elfów na Mikołaja, ID: 3
+Komunikat: Elf: czeka 3 elfów na Mikołaja, ID: 8
+Komunikat: Elf: wybudzam Mikołaja, ID: 8
+Komunikat: Elf: Mikołaj rozwiązuje problem, ID: 8
+Komunikat: Mikołaj: budzę się
+Komunikat: Elf: czeka na powrót elfów, ID: 2
+Komunikat: Elf: czeka na powrót elfów, ID: 9
+Komunikat: Elf: czeka na powrót elfów, ID: 7
+Komunikat: Elf: czeka na powrót elfów, ID: 6
+Komunikat: Elf: czeka na powrót elfów, ID: 4
+Komunikat: Renifer: czeka 8 reniferów na Mikołaja, 3
+Komunikat: Renifer: czeka 9 reniferów na Mikołaja, 1
+Komunikat: Renifer: wybudzam Mikołaja, 1
+Komunikat: Elf: czeka na powrót elfów, ID: 5
+Komunikat: Elf: czeka na powrót elfów, ID: 0
+Komunikat: Elf: czeka na powrót elfów, ID: 1
+Komunikat: Mikołaj: rozwiązuje problemy elfów, 1 3 8
+Komunikat: Mikołaj: zasypiam
+Komunikat: Mikołaj: budzę się
+Komunikat: Mikołaj: dostarczam zabawki
+Komunikat: Elf: czeka 1 elfów na Mikołaja, ID: 1
+Komunikat: Elf: czeka 2 elfów na Mikołaja, ID: 2
+Komunikat: Elf: czeka 3 elfów na Mikołaja, ID: 9
+Komunikat: Elf: wybudzam Mikołaja, ID: 9
+Komunikat: Elf: Mikołaj rozwiązuje problem, ID: 9
+Komunikat: Elf: czeka na powrót elfów, ID: 6
+Komunikat: Elf: czeka na powrót elfów, ID: 4
+Komunikat: Elf: czeka na powrót elfów, ID: 5
+Komunikat: Elf: czeka na powrót elfów, ID: 0
+Komunikat: Elf: czeka na powrót elfów, ID: 3
+Komunikat: Elf: czeka na powrót elfów, ID: 8
+Komunikat: Elf: czeka na powrót elfów, ID: 2
+make clean
+make[1]: Entering directory '/home/bielowka/all_sysopy/lab9/BielowkaSzymon/cw09/zad1'
+rm -f *.so *.o *.a
+rm main
+make[1]: Leaving directory '/home/bielowka/all_sysopy/lab9/BielowkaSzymon/cw09/zad1'

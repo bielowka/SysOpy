@@ -1,0 +1,16 @@
+Zauwazylem, ze blocks dziala znacznie szybciej, poniewaz watki nie musza przegladac calej tablicy, a jedynie jej czesc co poprawia zlozonosc.
+Najlepsze czasy wyszly dla 4 watkow, prawdopodonie zze wzgledu na liczbe rdzeni procesora uzywanych przez WSL
+ 
+wariant:liczba watkow;czasy poj watkow;czas calkowity;
+numbers;1;1249 ;1522;
+numbers;2;1014 1199 ;1377;
+numbers;4;832 782 711 910 ;1127;
+numbers;8;1242 994 1340 1569 1221 1184 1119 1383 ;1836;
+numbers;16;1205 1351 1311 1293 1303 1263 1211 1314 1128 1277 1574 986 693 684 679 1581 ;4497;
+numbers;32;1130 1164 1157 1112 1121 1246 1267 1270 1241 1268 1266 1298 1547 1268 775 1259 1435 1341 1142 1147 1199 1182 1150 1188 1254 1103 824 1006 972 1103 779 1352 ;3958;
+blocks;1;1124 ;1430;
+blocks;2;601 570 ;974;
+blocks;4;325 296 280 304 ;778;
+blocks;8;266 230 157 152 253 210 220 200 ;806;
+blocks;16;146 118 100 91 94 139 108 109 153 133 124 124 77 83 84 112 ;1111;
+blocks;32;109 61 55 58 74 65 44 44 57 80 95 40 68 68 50 80 77 47 74 41 40 75 78 72 75 94 75 82 77 80 67 144 ;2076;
